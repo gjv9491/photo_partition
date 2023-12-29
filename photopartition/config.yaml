@@ -1,0 +1,6 @@
+from_path: "~/Documents/personal/Pictures"
+to_path: "~/Documents/personal/pictures_test"
+partition_by: "year"
+# 2023 = %Y
+# 202312 = %Y%m
+# 20231201 = %Y%m%d
